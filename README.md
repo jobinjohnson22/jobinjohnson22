@@ -5,6 +5,8 @@
 
 ## 🙋‍♂️ About Me
 
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 - 🔭 I’m currently working on **[Expense Tracker](http://jobinjohnson22.github.io/Expense_Tracker/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **jobinjohnson01334@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love to code and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
