@@ -67,7 +67,7 @@
 
 <a href = "https://www.linkedin.com/in/jobin-johnson-01334/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/jjbro_22"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/jobin_johnson_22/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
@@ -75,7 +75,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/jobinjohnson22/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jobinjohnson22">
 </a>
 <a href="https://github.com/jobinjohnson22?tab=followers"><img src="https://img.shields.io/github/followers/jobinjohnson22?label=Followers&style=social" alt="GitHub Badge"></a>
