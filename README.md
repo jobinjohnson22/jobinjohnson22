@@ -7,7 +7,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on **[Expense Tracker](http://jobinjohnson22.github.io/Expense_Tracker/)**
+<!-- - 🔭 I’m currently working on **[Expense Tracker](http://jobinjohnson22.github.io/Expense_Tracker/)** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
